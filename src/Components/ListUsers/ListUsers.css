@@ -1,0 +1,16 @@
+.users-list {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  flex-wrap: wrap;
+  margin: 0 !important;
+}
+
+.text {
+    
+  width: 45rem;
+  height: 50px;
+  background: #1a8391;
+  color: white;
+  margin: 3% 25%;
+}
